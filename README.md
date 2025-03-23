@@ -1,6 +1,7 @@
-## Hi there 👋
- - 🌱 I’m currently learning how to code using Python
- - 😄 Pronouns: Any
+## Welcom to my profile
+ - I’m currently learning how to code using Python
+ - Pronouns: Any
+ - Don't ask me about coding cause I barely know anything myself
 
 <!--
 **XengalRen/XengalRen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
