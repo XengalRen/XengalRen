@@ -1,4 +1,4 @@
-## Welcom to my profile
+## Welcome to my profile
  - I’m currently learning how to code using Python
  - Pronouns: Any
  - Don't ask me about coding cause I barely know anything myself
